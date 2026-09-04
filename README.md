@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Shivam+%F0%9F%91%8B;Freshman+CS+Student;Learning+C+%26;" alt="Typing SVG" />
+</div>
+
 <a href="https://www.hackerrank.com/profile/shivamaswal007" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-shivamaswal007-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile">
 </a>
