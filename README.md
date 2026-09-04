@@ -1,4 +1,4 @@
-## Hi there 👋
+[![HackerRank](https://shields.io)](https://www.hackerrank.com/profile/shivamaswal007)
 
 <!--
 **Shivamaswal006/Shivamaswal006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
