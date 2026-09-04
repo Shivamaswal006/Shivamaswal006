@@ -1,4 +1,4 @@
-[![HackerRank](https://shields.io)](https://www.hackerrank.com/profile/shivamaswal007)
+[![HackerRank](https://shields.io)](https://www.hackerrank.com/profile/shivamaswal007)]
 <img src="(https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg)" width="100" alt="Silver C Badge">
 
 <!--
