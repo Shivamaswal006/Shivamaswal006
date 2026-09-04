@@ -1,10 +1,10 @@
-<a href="(https://www.hackerrank.com/profile/shivamaswal007)" target="_blank">
-  <img src="https://shields.io" alt="HackerRank Profile">
+<a href="https://www.hackerrank.com/profile/shivamaswal007" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-shivamaswal007-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile">
 </a>
 
 <br><br>
 
-![C Language Silver Badge](https://shields.io)
+<img src="https://img.shields.io/badge/C-Silver%20Badge-C0C0C0?style=for-the-badge&logo=c&logoColor=white" alt="C Language Silver Badge">
 
 <!--
 **Shivamaswal006/Shivamaswal006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
