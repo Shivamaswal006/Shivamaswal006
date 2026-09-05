@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Shivam+%F0%9F%91%8B;Mathematics+%26+Computing+Undergrad;Learning+C;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Shivam+%F0%9F%91%8B;Mathematics+%26+Computing+Undergrad;Learning+C;" alt="Typing SVG" />
 </div>
 
 ### 📊 My Stats
@@ -9,12 +9,12 @@
   <img src="https://github-stats-extended.vercel.app/api?username=Shivamaswal006&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
 
   <!-- Most Used Languages -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shivamaswal006&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shivamaswal006&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamaswal006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamaswal006&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <a href="https://www.hackerrank.com/profile/shivamaswal007" target="_blank">
